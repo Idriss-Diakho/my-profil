@@ -1,22 +1,22 @@
 
 body{
- 	background: #DCDCCC;
+ 	background: #C5C5C5;
  	color: #steelblue;
  	font-family: 'Lora', serif; 
- 	font-size: 16px;
+ 	font-size: 18px;
  	font-weight: lighter;
 }
 h1, h2, h3 {
 	font-family: 'Roboto', sans-serif;
 }
 h1 {
-  	color: #blueviolet;
-  	font-size: 36px;
+  	color: #111111;
+  	font-size: 40px;
   	font-weight: 600;
 }
 h2 {
   	color: #blue;  
-  	font-size: 25px;
+  	font-size: 28px;
   	font-weight: 400;
 }
 a {
@@ -31,7 +31,7 @@ a:hover {
 
  
 .container {
-	width:700px;
+	width:750px;
 	margin:40px auto;
 }
 
